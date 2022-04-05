@@ -1,0 +1,19 @@
+{
+  "name": "servidorglobant",
+  "version": "1.0.0",
+  "description": "ejemplo Api rest Globant",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Api",
+    "Globant",
+    "Cesde"
+  ],
+  "author": "Adluossu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
